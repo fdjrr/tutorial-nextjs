@@ -1,5 +1,6 @@
 # Tutorial NextJS TypeScript
 
+```
 (0:00:00) Introduction ✅
 (0:01:16) Pengenalan Nextjs ✅
 (0:02:19) Project Structure ✅
@@ -38,3 +39,4 @@
 Link Tutorial :
 
 https://youtu.be/UyIe8Tqjuq8?si=9TGBkjZlwYg1tSJt
+```
